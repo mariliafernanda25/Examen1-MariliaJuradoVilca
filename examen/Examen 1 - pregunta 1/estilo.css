@@ -1,0 +1,26 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+div{
+    height: 133px;
+    width: 280px;
+    justify-content: center;
+    align-items: center;
+    margin:auto;
+    margin-top: 40px;
+    border: solid;
+    border-color: dimgray;
+}
+
+h1{
+    background-color: gray;
+    color: white;
+    font-size: 25px;
+    margin-top: 0px;
+}
+
+footer{
+    background-color: lightgray;
+}
